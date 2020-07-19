@@ -1,0 +1,2 @@
+# RCAD-pneum
+Radiological Computer-Assisted Detection for Pneumonia (RCAD-pneum) is a Medical Device as a Software (MDaaS). It is an image processing device intended to aid in diagnosis of pneumonia in patients based on chest radiological images acquired from radiological signal acquisition systems such as X-Ray modalities. The device provides information from the image analysis utilizing trained deep learning model that helps aid in detection of pneumonia.
